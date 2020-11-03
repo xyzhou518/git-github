@@ -1,3 +1,3 @@
 # git-github
 learn
-This is for turtorial purpose.
+This is for tutorial purpose.
